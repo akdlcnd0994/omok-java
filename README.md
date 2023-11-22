@@ -20,5 +20,5 @@
 ![image](https://github.com/akdlcnd0994/omok-java/assets/28687142/be65cd0e-fd30-4bf4-94f8-52845b6bf3d6)
 ### 채팅
 ![image](https://github.com/akdlcnd0994/omok-java/assets/28687142/62d05d2d-86ba-450d-b0f1-f2c9facf8648)
-### 유저 종료
+### 유저 종료(서버)
 ![image](https://github.com/akdlcnd0994/omok-java/assets/28687142/50267ea1-f29e-4d6b-ba77-3384a81539e5)
